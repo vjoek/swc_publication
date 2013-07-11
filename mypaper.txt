@@ -1,6 +1,6 @@
 Author: V Joe Klimkowski, The other guy is now 2nd
 Title: The best paper I ever wrote. 
-Author: The Other Guy, V Joe Klimkowski
+Author: Tom , V Joe Klimkowski
 Title: The best conference paper I ever wrote. THIS is confusing
 
 Abstract:
